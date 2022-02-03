@@ -1,0 +1,19 @@
+Welcome to Rivanna!
+
+Please give the system one hour to update before attempting to use your new allocation.
+
+New users are encouraged to attend one of our free orientation sessions which are held on Wednesdays at 3 p.m. EST (appointment required).
+
+A helpful overview of the system is available on the Rivanna webpage:
+https://www.rc.virginia.edu/userinfo/rivanna/overview/
+
+Additional information can be found here:
+https://www.rc.virginia.edu/userinfo/rivanna/login/
+https://www.rc.virginia.edu/userinfo/data-transfer/
+
+Need more help? Send your questions to hpc-support@virginia.edu
+
+Please note: The login servers are for preparing your jobs and running very short test jobs. They are not to be used for production jobs. Production jobs must be submitted to the compute nodes through the SLURM resource manager. (https://www.rc.virginia.edu/userinfo/rivanna/slurm/)
+
+At your service,
+Research Computing (RC)
