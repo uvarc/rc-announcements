@@ -1,3 +1,1 @@
-Files on /scratch are currently unavailable to all users due to a failure of the /scratch system. RC engineers are attempting to restore /scratch this weekend. Updates will be posted on the RC home page, www.rc.virginia.edu.
- 
-We apologize for the inconvenience.
+We are pleased to report that RC engineers have successfully restored the old /scratch system and a majority of its files. Users are encouraged to transfer files needed for active work from the old /scratch system to the new /scratch system over the next thirty days using the Globus Data Transfer service. Important files should be backed up elsewhere. The old /scratch system will be permanently retired on 31 October. Users who need help using Globus to transfer their /scratch files should contact our user services team for assistance.
