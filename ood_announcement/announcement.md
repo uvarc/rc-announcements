@@ -1,1 +1,1 @@
-Rivanna will be down for maintenance on Tuesday, October 4 beginning at 6 a.m. You may continue to submit jobs to Rivanna until the maintenance period begins, but if the system determines your job will not have time to finish, it will not start until Rivanna is returned to service. Users will not be able to access the Globus data transfer nodes (UVA Main-DTN or Ivy DTN) during the maintenance period.
+
