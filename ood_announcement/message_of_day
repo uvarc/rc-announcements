@@ -1,0 +1,5 @@
+**2023-08-15 Scratch Directory**
+
+All data in /oldscratch i.e. /gpfs/gpfs0/scratch will be **permanently removed on October 17, 2023**. Please back up your data.
+
+The 90-day purge policy will be implemented for /scratch - files not accessed in 90 days are removed. /scratch is intended as temporary storage for active work. It is not backed up and needs to be purged periodically in order to maintain a stable HPC environment. RC offers several low-cost storage options to researchers; see [here](https://www.rc.virginia.edu/userinfo/rivanna/storage/).
