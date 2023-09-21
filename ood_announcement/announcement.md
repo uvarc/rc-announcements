@@ -1,1 +1,1 @@
-**NOTICE:** Project storage is currently unavailable. We apologize for the inconvenience. RC engineers are actively working to resolve the issue and restore service as quickly as possible. [Check status|https://www.rc.virginia.edu/].
+**NOTICE:** Project storage is currently unavailable. We apologize for the inconvenience. RC engineers are actively working to resolve the issue and restore service as quickly as possible. [https://www.rc.virginia.edu/].
