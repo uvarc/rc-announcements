@@ -1,1 +1,3 @@
 **NOTICE:** Project storage is currently unavailable. We apologize for the inconvenience. RC engineers are actively working to resolve the issue and restore service as quickly as possible. [https://www.rc.virginia.edu/].
+
+Rivanna will be down for maintenance on Tuesday, October 3 beginning at 6 a.m. For details see [here](https://www.rc.virginia.edu/2023/09/rivanna-maintenance-october-3-2023/).
