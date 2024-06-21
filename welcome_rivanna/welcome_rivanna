@@ -1,19 +1,16 @@
-Welcome to Rivanna!
+Welcome to UVA’s High-Performance Computing environment!
 
-Please give the system one hour to update before attempting to use your new allocation.
+Please give the system one hour to update before attempting to use your new allocation. You may use your allocation for the Afton or Rivanna systems.
 
-New users are encouraged to attend one of our free orientation sessions which are held on Wednesdays at 3 p.m. EST (appointment required).
+New users are encouraged to attend one of our "Intro to HPC" orientation sessions which are held on Wednesdays at 3 p.m. EST (to reserve a seat, go to  https://www.rc.virginia.edu/support/#office-hours and click on the "Sign up" button).
 
-A helpful overview of the system is available on the Rivanna webpage:
-https://www.rc.virginia.edu/userinfo/rivanna/overview/
+A helpful overview of the system, how to log in, and how to use the compute resources are available on the high-performance computing webpage:
+https://www.rc.virginia.edu/userinfo/hpc/overview/
 
-Additional information can be found here:
-https://www.rc.virginia.edu/userinfo/rivanna/login/
-https://www.rc.virginia.edu/userinfo/data-transfer/
+Need more help? Please submit your question here.
 
-Need more help? Send your questions to hpc-support@virginia.edu
-
-Please note: The login servers are for preparing your jobs and running very short test jobs. They are not to be used for production jobs. Production jobs must be submitted to the compute nodes through the SLURM resource manager. (https://www.rc.virginia.edu/userinfo/rivanna/slurm/)
-
+Please note: The login servers are for preparing your jobs. Code development and testing shall not be conducted on login nodes but rather on dedicated compute nodes. We have a dedicated partition for testing and short runs called the “interactive” partition. See here for details https://www.rc.virginia.edu/userinfo/hpc/overview/#job-queues.
+ 
 At your service,
 Research Computing (RC)
+
