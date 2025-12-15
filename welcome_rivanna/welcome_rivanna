@@ -2,14 +2,37 @@ Welcome to UVA’s High-Performance Computing environment!
 
 Please give the system one hour to update before attempting to use your new allocation. You may use your allocation for the Afton or Rivanna systems.
 
-New users are encouraged to attend one of our "Intro to HPC" orientation sessions which are held on Wednesdays at 3 p.m. EST (to reserve a seat, go to  https://www.rc.virginia.edu/support/#office-hours and click on the "Sign up" button).
+New users are encouraged to attend one of our "Intro to HPC" orientation sessions which are held on Wednesdays at 3 p.m. EST (to reserve a seat, go to  https://www.rc.virginia.edu/support/#new-to-high-performance-computing and click on the "Sign up" button).
 
 A helpful overview of the system, how to log in, and how to use the compute resources are available on the high-performance computing webpage:
 https://www.rc.virginia.edu/userinfo/hpc/overview/
 
 Need more help? Please [contact our user services team](https://www.rc.virginia.edu/support/).
 
-Please note: The login servers are for preparing your jobs. Code development and testing shall not be conducted on login nodes but rather on dedicated compute nodes. We have a dedicated partition for testing and short runs called the “interactive” partition. See here for details https://www.rc.virginia.edu/userinfo/hpc/overview/#job-queues.
+Please note that Research Computing (RC) resources are for UVA faculty, staff, students and sponsored collaborators conducting academic research only; personal use is not allowed, and all users must follow university policies.
+
+By logging in to the Afton/Rivanna HPC system, you accept Research Computing’s terms of service as detailed below:
+
+- Permissible Data
+Only public, internal, sensitive, or de-identified data may be used; highly sensitive data are strictly prohibited.
+
+- System Availability & Maintenance
+While RC strives for high availability, outages and scheduled maintenance may occur, and users will be notified in advance of planned downtime.
+
+- Login (Access) Nodes Usage
+Login nodes are for light, interactive work only; running compute-intensive jobs or exceeding time limits can result in terminated processes and possible loss of access. We have a dedicated partition for testing and short runs called the “interactive” partition. See here for details https://www.rc.virginia.edu/userinfo/hpc/overview/#job-queues.
+
+- Scratch Directory Policy
+Scratch storage is temporary (10 TB per user), not backed up, and files unused for 90 days are automatically deleted to maintain performance.
+
+- Software License Fair Use
+Excessive use of licensed software that impacts others may result in job termination, with or without warning.
+
+- Communications from RC
+Users agree to receive RC communications related to policies, system status, and other essential information.
+
+- Inappropriate or Prohibited Usage
+Violations of university security policies or use of prohibited applications (e.g., TikTok, WeChat, DeepSeek) will result in immediate termination of access.
  
 At your service,
 Research Computing (RC)
