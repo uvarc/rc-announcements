@@ -7,7 +7,7 @@ New users are encouraged to attend one of our "Intro to HPC" orientation session
 A helpful overview of the system, how to log in, and how to use the compute resources are available on the high-performance computing webpage:
 https://www.rc.virginia.edu/userinfo/hpc/overview/
 
-Need more help? Please submit your question here.
+Need more help? Please [contact our user services team](https://www.rc.virginia.edu/support/).
 
 Please note: The login servers are for preparing your jobs. Code development and testing shall not be conducted on login nodes but rather on dedicated compute nodes. We have a dedicated partition for testing and short runs called the “interactive” partition. See here for details https://www.rc.virginia.edu/userinfo/hpc/overview/#job-queues.
  
