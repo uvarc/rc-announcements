@@ -1,0 +1,44 @@
+<GREETING>
+
+We’re reaching out to help you optimize your recent jobs run in the <PARTITIONS> partition on our Rivanna/Afton clusters. 
+
+
+Below are <CASE> that ran in the past <DAYS> days:
+
+<TABLE>
+
+Across these jobs, your average memory utilization is approximately <PERCENT>.
+
+Why this matters
+
+Requesting significantly more memory than needed can reduce overall cluster availability. 
+In your case, this corresponds to approximately <UNUSED> TB-hours of unused memory over the past <DAYS> days. 
+For context, a TB-hour represents 1 terabyte of memory allocated for 1 hour.  
+
+What we recommend
+
+* Use either --mem or --mem-per-cpu in your Slurm script 
+* Aim for ~70-80% memory utilization as a general guideline 
+* Take advantage of the interactive partition to run smaller test jobs to determine appropriate memory needs
+
+How to check your usage 
+
+You can review memory utilization for completed or running jobs using jobstats module in a terminal. 
+
+<JOBSTATS>
+
+Need help?
+
+* Documentation on CPU memory optimization:
+
+        https://staging.rc.virginia.edu/userinfo/hpc/cpu-best-practices/
+
+* Research Computing support:
+
+        https://www.rc.virginia.edu/support/
+
+Replying to this email will automatically open a support ticket. 
+Thank you for helping us keep the cluster efficient and accessible for everyone. 
+
+Best regards, 
+Research Computing Team 
