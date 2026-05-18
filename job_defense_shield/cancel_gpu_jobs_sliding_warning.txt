@@ -1,0 +1,17 @@
+<GREETING>
+
+You have job(s) that have not used the GPU(s) for the last <WARNING-HRS> hours:
+
+<TABLE> 
+
+These jobs will be AUTOMATICALLY CANCELLED if they are found to not be using the
+GPU(s) for a period of <CANCEL-HRS> hours.
+
+Please consider cancelling the job(s) listed above.
+
+For more information about job cancellations see our utilization policies:
+
+    https://www.rc.virginia.edu/userinfo/hpc/job-alerts/
+
+Replying to this automated email will open a support ticket with Research
+Computing.
