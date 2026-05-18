@@ -1,0 +1,26 @@
+<GREETING>
+
+The jobs below have run for more than <MINUTES-1ST> minutes at 0% GPU utilization. This 
+scenario can often be due to code that is not intended for GPUs or using GPU libraries 
+that were built incorrectly for the system. 
+
+<TABLE> 
+
+If any SLURM batch jobs are listed above, please cancel them and re-evaluate for GPU compatibility.
+For any interactive jobs, please actively use the GPU device(s) or relinquish the session(s) so 
+that other researchers may use them.
+
+Your jobs will be AUTOMATICALLY CANCELLED if they are found to not be using the
+GPUs for <CANCEL-HRS> hours. 
+
+For more information about job cancellations see our utilization policies:
+
+    https://www.rc.virginia.edu/userinfo/hpc/job-alerts/
+
+To run smaller GPU jobs with less queue delays, see how to submit job to the gpu-mig partition:
+
+    https://www.rc.virginia.edu/userinfo/hpc/slurm/#mig-gpu-partition
+
+Replying to this automated email will open a support ticket with Research Computing for follow-up.
+If no follow-up is needed, please do not reply, as it will generate unnecessary tickets for our 
+support team. Thank you for helping us keep the system working smoothly for everyone!
