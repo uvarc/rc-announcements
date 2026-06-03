@@ -31,7 +31,7 @@ Need help?
 
 * Documentation on CPU memory optimization:
 
-        https://staging.rc.virginia.edu/userinfo/hpc/cpu-best-practices/
+        https://www.rc.virginia.edu/userinfo/hpc/cpu-best-practices/
 
 * Research Computing support:
 
