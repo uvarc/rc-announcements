@@ -31,11 +31,11 @@ Need help?
 
 * Documentation on CPU memory optimization:
 
-        https://www.rc.virginia.edu/userinfo/hpc/cpu-best-practices/
+        https://archive.rc.virginia.edu/userinfo/hpc/cpu-best-practices/
 
 * Research Computing support:
 
-        https://www.rc.virginia.edu/support/
+        https://www.rc.virginia.edu/support#user-support
 
 Replying to this email will automatically open a support ticket. 
 Thank you for helping us keep the cluster efficient and accessible for everyone. 

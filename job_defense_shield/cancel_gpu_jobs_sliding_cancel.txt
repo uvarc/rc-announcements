@@ -7,7 +7,7 @@ last <CANCEL-HRS> hours:
 
 For more information about job cancellations see our utilization policies:
 
-    https://www.rc.virginia.edu/userinfo/hpc/job-alerts/
+    https://archive.rc.virginia.edu/userinfo/hpc/job-alerts/
 
 Replying to this automated email will open a support ticket with Research
 Computing.

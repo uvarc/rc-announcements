@@ -2,12 +2,12 @@ Welcome to UVA’s High-Performance Computing environment!
 
 Please give the system one hour to update before attempting to use your new allocation. You may use your allocation for the Afton or Rivanna systems.
 
-New users are encouraged to attend one of our "Intro to HPC" orientation sessions which are held on Wednesdays at 3 p.m. EST (to reserve a seat, go to  https://www.rc.virginia.edu/support/#new-to-high-performance-computing and click on the "Sign up" button).
+New users are encouraged to attend one of our "Intro to HPC" orientation sessions which are held on Wednesdays at 3 p.m. EST (to reserve a seat, go to https://learning.rc.virginia.edu/tutorials/hpc-intro/ and click on the "Sign up" button).
 
 A helpful overview of the system, how to log in, and how to use the compute resources are available on the high-performance computing webpage:
-https://www.rc.virginia.edu/userinfo/hpc/overview/
+https://www.rc.virginia.edu/services/compute-and-storage/aftonrivanna
 
-Need more help? Please contact our user support at https://www.rc.virginia.edu/support/.
+Need more help? Please contact our user support at https://www.rc.virginia.edu/support#user-support.
 
 Please note that by logging in to the Afton/Rivanna HPC system, you accept Research Computing’s terms of service as detailed below:
 
@@ -17,7 +17,7 @@ Please note that by logging in to the Afton/Rivanna HPC system, you accept Resea
 
 - While RC strives for high availability, outages and scheduled maintenance may occur, and users will be notified in advance of planned downtime.
 
-- Login nodes are for light, interactive work only; running compute-intensive jobs or exceeding time limits can result in terminated processes and possible loss of access. We have the dedicated "interactive" partition for testing and short runs. See here for details https://www.rc.virginia.edu/userinfo/hpc/overview/#job-queues.
+- Login nodes are for light, interactive work only; running compute-intensive jobs or exceeding time limits can result in terminated processes and possible loss of access. We have the dedicated "interactive" partition for testing and short runs. See here for details https://www.rc.virginia.edu/services/compute-and-storage/aftonrivanna#job-partitions.
 
 - Scratch storage is temporary (10 TB per user), not backed up, and files unused for 90 days are automatically deleted to maintain performance.
 
