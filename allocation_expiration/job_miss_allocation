@@ -4,9 +4,9 @@ The HPC allocation $ACCOUNT that was supplied for job $JOBID needs to be renewed
 For details, run command: allocations -a $ACCOUNT
 
 To renew $ACCOUNT, the PI of the allocation needs to submit the appropriate allocation renewal request:
-Standard: https://www.forms.rc.virginia.edu/form/allocation-standard/
-Paid: https://www.forms.rc.virginia.edu/form/allocation-purchase/
-Instructional: https://www.forms.rc.virginia.edu/form/allocation-instructional/
+Standard: https://forms.rc.virginia.edu/form/allocation-standard/
+Paid: https://forms.rc.virginia.edu/form/allocation-purchase/
+Instructional: https://forms.rc.virginia.edu/form/allocation-instructional/
 
 At your service,
 Research Computing (RC)
