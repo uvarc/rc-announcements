@@ -3,10 +3,11 @@ Hello,
 The HPC allocation $ACCOUNT that was supplied for job $JOBID needs to be renewed because it is either out of service units or has expired.
 For details, run command: allocations -a $ACCOUNT
 
-To renew $ACCOUNT, the PI of the allocation needs to submit the appropriate allocation renewal request:
-Standard: https://forms.rc.virginia.edu/form/allocation-standard/
-Paid: https://forms.rc.virginia.edu/form/allocation-purchase/
-Instructional: https://forms.rc.virginia.edu/form/allocation-instructional/
+Research Computing has launched a new portal to request and manage computational services. Allocations that expired before the launch need to be recreated as a new allocation under the same Grouper group within the portal.
+
+To renew $ACCOUNT, the PI of the allocation needs create a new project and request a new allocation within Research Computing's Resource Portal.
+
+Please visit https://rc.virginia.edu/request-manage/research-computing-resources-portal to access the portal.
 
 At your service,
 Research Computing (RC)
